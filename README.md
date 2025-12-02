@@ -1,2 +1,1 @@
-# my-tetudude-
-assignment
+my name -vidya
